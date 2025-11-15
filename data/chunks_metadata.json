@@ -1,0 +1,197 @@
+[
+  {
+    "chunk_id": 0,
+    "text": "HR SaaS Platform - Comprehensive FAQ Documentation\n\nCOMPANY POLICIES\n\nLeave Policy and Time Off Management\n\nEmployees are entitled to various types of leave including annual leave, sick leave, personal leave, and public holidays. Annual leave accrues at a rate of 2.5 days per month for full-time employees, with a maximum accumulation of 20 days.",
+    "length": 347
+  },
+  {
+    "chunk_id": 1,
+    "text": "Sick leave is available at 10 days per year and does not carry over to the next year. Personal leave can be used for family emergencies, medical appointments, or personal matters and is limited to 5 days per year. All leave requests must be submitted through the HR portal at least 48 hours in advance, except for emergency situations.",
+    "length": 335
+  },
+  {
+    "chunk_id": 2,
+    "text": "Managers have 24 hours to approve or reject leave requests. If no response is received within this timeframe, the request is automatically approved. Employees can view their leave balance in real-time through the dashboard. Leave requests can be cancelled up to 24 hours before the start date without penalty.",
+    "length": 309
+  },
+  {
+    "chunk_id": 3,
+    "text": "Leave requests can be cancelled up to 24 hours before the start date without penalty. For extended leave periods exceeding 10 consecutive days, employees must provide additional documentation and obtain approval from both their direct manager and HR department. Remote Work and Flexible Arrangements\n\nOur company supports flexible work arrangements including full remote work, hybrid schedules, and flexible hours.",
+    "length": 414
+  },
+  {
+    "chunk_id": 4,
+    "text": "Employees can request remote work arrangements through the HR portal under the \"Work Arrangements\" section. Remote work requests are typically approved within 5 business days. Employees working remotely must have a dedicated workspace with reliable internet connection (minimum 25 Mbps download speed) and appropriate equipment.",
+    "length": 328
+  },
+  {
+    "chunk_id": 5,
+    "text": "The company provides laptops, monitors, and necessary software licenses for remote employees. Core working hours are from 10 AM to 3 PM EST, during which all employees must be available for meetings and collaboration. Outside of core hours, employees can set their own schedules. Remote employees are required to attend monthly in-person team meetings at the office.",
+    "length": 366
+  },
+  {
+    "chunk_id": 6,
+    "text": "Remote employees are required to attend monthly in-person team meetings at the office. Travel expenses for these meetings are covered by the company. Performance evaluations for remote workers follow the same criteria as office-based employees. Remote work arrangements are reviewed annually and can be modified based on business needs or employee performance.",
+    "length": 360
+  },
+  {
+    "chunk_id": 7,
+    "text": "Benefits and Compensation\n\nOur comprehensive benefits package includes health insurance, dental coverage, vision insurance, retirement plans, and wellness programs. Health insurance coverage begins on the first day of employment with options for individual, employee plus spouse, or family plans. The company covers 80% of health insurance premiums for employees and 60% for dependents.",
+    "length": 386
+  },
+  {
+    "chunk_id": 8,
+    "text": "The company covers 80% of health insurance premiums for employees and 60% for dependents. Dental and vision insurance are fully covered by the company for all employees. We offer a 401(k) retirement plan with company matching up to 6% of employee contributions. The matching contribution vests over 4 years with 25% vesting each year.",
+    "length": 334
+  },
+  {
+    "chunk_id": 9,
+    "text": "The matching contribution vests over 4 years with 25% vesting each year. Employees are eligible for the 401(k) plan after completing 90 days of employment. Our wellness program includes gym membership reimbursement up to $50 per month, mental health counseling services, and annual health screenings.",
+    "length": 300
+  },
+  {
+    "chunk_id": 10,
+    "text": "Employees receive a $500 annual wellness stipend that can be used for fitness equipment, wellness apps, or health-related expenses. Professional development benefits include an annual learning budget of $2,000 per employee for courses, certifications, conferences, and training programs. Tuition reimbursement is available for job-related degree programs with a maximum of $5,000 per year.",
+    "length": 389
+  },
+  {
+    "chunk_id": 11,
+    "text": "FEATURE DOCUMENTATION\n\nEmployee Onboarding System\n\nThe onboarding system streamlines the process of bringing new employees into the organization. New hires receive an automated email with login credentials and access links 3 days before their start date. The onboarding portal includes digital forms for tax information, direct deposit setup, emergency contacts, and benefits enrollment.",
+    "length": 387
+  },
+  {
+    "chunk_id": 12,
+    "text": "All forms must be completed within the first week of employment. The system automatically assigns required training modules based on the employee's role and department. Training modules cover company policies, security protocols, software usage, and compliance requirements. New employees are assigned a buddy from their team who serves as a point of contact for questions during the first month.",
+    "length": 396
+  },
+  {
+    "chunk_id": 13,
+    "text": "The onboarding checklist tracks completion of all required tasks and sends reminders for incomplete items. Managers receive notifications when their new team members complete onboarding milestones. The system generates a personalized welcome package including company handbook, organizational chart, and department-specific resources.",
+    "length": 334
+  },
+  {
+    "chunk_id": 14,
+    "text": "Onboarding completion is tracked and reported to HR for compliance purposes. Performance Review and Goal Setting\n\nThe performance review system enables continuous feedback and goal tracking throughout the year. Employees can set annual goals, quarterly objectives, and monthly milestones through the performance dashboard.",
+    "length": 322
+  },
+  {
+    "chunk_id": 15,
+    "text": "Goals should follow the SMART framework: Specific, Measurable, Achievable, Relevant, and Time-bound. Managers can provide real-time feedback, recognition, and constructive criticism through the feedback feature. The system supports 360-degree reviews where employees receive feedback from peers, direct reports, and managers.",
+    "length": 325
+  },
+  {
+    "chunk_id": 16,
+    "text": "Performance reviews are conducted quarterly with a comprehensive annual review at year-end. Employees can request feedback from colleagues at any time through the \"Request Feedback\" feature. The system tracks goal progress automatically and sends alerts when goals are at risk of not being met. Performance ratings use a 5-point scale: Exceeds Expectations, Meets Expectations, Partially Meets Expectations, Below Expectations, and Needs Improvement.",
+    "length": 450
+  },
+  {
+    "chunk_id": 17,
+    "text": "Review documents are stored securely and can be accessed by employees and their managers. The system generates performance reports that help identify high performers, development opportunities, and succession planning candidates. Time Tracking and Attendance Management\n\nThe time tracking system provides accurate recording of work hours, breaks, and overtime.",
+    "length": 360
+  },
+  {
+    "chunk_id": 18,
+    "text": "Employees can clock in and out using the mobile app, web portal, or biometric time clocks at office locations. The system automatically calculates regular hours, overtime hours, and break times based on company policies. Overtime is calculated for hours worked beyond 40 hours per week or 8 hours per day, depending on state regulations.",
+    "length": 337
+  },
+  {
+    "chunk_id": 19,
+    "text": "Employees can view their timesheet in real-time and make corrections for missed clock-ins or clock-outs. Timesheet corrections require manager approval before being processed in payroll. The system sends automatic reminders for employees who forget to clock in or out. Managers receive notifications when employees approach overtime thresholds.",
+    "length": 344
+  },
+  {
+    "chunk_id": 20,
+    "text": "Managers receive notifications when employees approach overtime thresholds. Attendance reports show patterns of tardiness, absences, and punctuality for individual employees and teams. The system integrates with payroll to ensure accurate payment processing. Geofencing features ensure employees can only clock in when they are at approved work locations.",
+    "length": 355
+  },
+  {
+    "chunk_id": 21,
+    "text": "Geofencing features ensure employees can only clock in when they are at approved work locations. Break times are automatically deducted from total hours worked based on company break policies. PROCEDURES AND TROUBLESHOOTING\n\nPassword Reset and Account Security\n\nIf you forget your password, click the \"Forgot Password\" link on the login page.",
+    "length": 342
+  },
+  {
+    "chunk_id": 22,
+    "text": "You will receive an email with a password reset link that expires after 30 minutes. The reset link can only be used once. If you don't receive the email, check your spam folder and ensure your email address is correct in the system. For security reasons, passwords must be at least 12 characters long and include uppercase letters, lowercase letters, numbers, and special characters.",
+    "length": 383
+  },
+  {
+    "chunk_id": 23,
+    "text": "Passwords cannot be reused from the last 12 passwords. Two-factor authentication (2FA) is required for all accounts and can be set up using an authenticator app or SMS. If you're locked out of your account after multiple failed login attempts, contact IT support to unlock your account. Account lockouts are automatically released after 30 minutes, but IT can manually unlock accounts immediately.",
+    "length": 397
+  },
+  {
+    "chunk_id": 24,
+    "text": "Suspicious login activity triggers automatic account suspension and notification to the security team. Employees receive email alerts for login attempts from new devices or locations. If you suspect unauthorized access to your account, immediately change your password and contact IT security. Payroll and Payment Issues\n\nPayroll is processed bi-weekly on Fridays, with payments deposited to employee bank accounts on the following Wednesday.",
+    "length": 442
+  },
+  {
+    "chunk_id": 25,
+    "text": "If you don't receive your payment on the expected date, first verify your direct deposit information is correct in the payroll portal. Common issues include incorrect bank account numbers, closed accounts, or bank routing errors. You can update your direct deposit information at any time, but changes made after the payroll cutoff date (Monday before payday) will not take effect until the next pay period.",
+    "length": 407
+  },
+  {
+    "chunk_id": 26,
+    "text": "For missing or incorrect payments, contact the payroll department within 30 days of the pay date. Pay stubs are available in the employee portal and can be downloaded as PDF files. Tax forms including W-2s are available by January 31st each year. If you need to change your tax withholding, update your W-4 form in the payroll section.",
+    "length": 335
+  },
+  {
+    "chunk_id": 27,
+    "text": "If you need to change your tax withholding, update your W-4 form in the payroll section. Overtime payments are automatically calculated and included in the next regular pay period. Expense reimbursements are processed separately from regular payroll and typically take 5-7 business days after approval.",
+    "length": 302
+  },
+  {
+    "chunk_id": 28,
+    "text": "If you have questions about deductions, benefits contributions, or tax withholdings, review your pay stub details or contact payroll support. System Access and Permissions\n\nDifferent employee roles have access to different features and information in the HR system. Standard employees can view their own information, submit time off requests, update personal details, and access company documents.",
+    "length": 397
+  },
+  {
+    "chunk_id": 29,
+    "text": "Managers have additional access to view their team members' information, approve time off requests, conduct performance reviews, and generate team reports. HR administrators have full access to all employee data, system configuration, and administrative functions. If you need access to additional features or believe your permissions are incorrect, submit an access request through the IT portal.",
+    "length": 397
+  },
+  {
+    "chunk_id": 30,
+    "text": "Access requests require approval from your manager and the system administrator. Access is typically granted within 2 business days after approval. Temporary access can be granted for specific projects or time periods and automatically expires on the specified date. If you're unable to access a feature you believe you should have, check your role assignments in your profile settings.",
+    "length": 386
+  },
+  {
+    "chunk_id": 31,
+    "text": "Some features may require additional training or certification before access is granted. System administrators can audit access logs to track who accessed what information and when. Technical Support and Troubleshooting\n\nFor technical issues with the HR platform, first check the knowledge base articles in the help center.",
+    "length": 323
+  },
+  {
+    "chunk_id": 32,
+    "text": "Common issues include browser compatibility problems, slow loading times, and feature-specific errors. The platform is optimized for Chrome, Firefox, and Edge browsers. If you experience issues, try clearing your browser cache, disabling browser extensions, or using an incognito window. Mobile app issues can often be resolved by updating to the latest version of the app or reinstalling it.",
+    "length": 392
+  },
+  {
+    "chunk_id": 33,
+    "text": "For persistent problems, submit a support ticket through the help center with details about the issue, error messages, and steps to reproduce the problem. Support tickets are typically responded to within 4 hours during business hours. Critical system outages are communicated via email and the company intranet.",
+    "length": 312
+  },
+  {
+    "chunk_id": 34,
+    "text": "Critical system outages are communicated via email and the company intranet. The system undergoes scheduled maintenance on the second Sunday of each month from 2 AM to 6 AM EST. During maintenance, the system is unavailable but employees are notified 48 hours in advance. If you encounter data discrepancies or incorrect information in your profile, contact HR directly rather than submitting a technical support ticket.",
+    "length": 420
+  },
+  {
+    "chunk_id": 35,
+    "text": "Data Privacy and Compliance\n\nAll employee data is stored securely and in compliance with GDPR, CCPA, and other applicable privacy regulations. Employees have the right to access, correct, or delete their personal information by submitting a data request through the privacy portal. Data retention policies vary by information type: payroll records are retained for 7 years, performance reviews for 5 years, and general employee records for 3 years after termination.",
+    "length": 466
+  },
+  {
+    "chunk_id": 36,
+    "text": "The company conducts regular security audits and penetration testing to ensure data protection. Employee data is never sold to third parties and is only shared with authorized service providers under strict confidentiality agreements. If you receive a suspicious email requesting personal information or login credentials, do not respond and forward it to the security team.",
+    "length": 374
+  },
+  {
+    "chunk_id": 37,
+    "text": "Phishing attempts are common and employees should be cautious of emails from unknown senders or unexpected requests for information. The company provides annual security training to all employees covering data protection, password security, and recognizing phishing attempts. Breach notification procedures ensure employees are informed within 72 hours if their data may have been compromised.",
+    "length": 393
+  },
+  {
+    "chunk_id": 38,
+    "text": "Employees can opt out of non-essential data collection through their privacy settings.",
+    "length": 86
+  }
+]

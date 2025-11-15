@@ -1,0 +1,62 @@
+[
+  {
+    "user_question": "How many days of annual leave do I get per year?",
+    "system_answer": "Full-time employees accrue annual leave at a rate of 2.5 days per month, which amounts to 30 days per year. However, there is a maximum accumulation limit of 20 days. This means you can carry over up to 20 days of unused annual leave from one year to the next. All leave requests must be submitted through the HR portal at least 48 hours in advance, except for emergency situations.",
+    "chunks_related": [
+      {
+        "chunk_id": 0,
+        "text": "Employees are entitled to various types of leave including annual leave, sick leave, personal leave, and public holidays. Annual leave accrues at a rate of 2.5 days per month for full-time employees, with a maximum accumulation of 20 days. Sick leave is available at 10 days per year and does not carry over to the next year. Personal leave can be used for family emergencies, medical appointments, or personal matters and is limited to 5 days per year. All leave requests must be submitted through the HR portal at least 48 hours in advance, except for emergency situations.",
+        "similarity_score": 0.95
+      },
+      {
+        "chunk_id": 1,
+        "text": "Managers have 24 hours to approve or reject leave requests. If no response is received within this timeframe, the request is automatically approved. Employees can view their leave balance in real-time through the dashboard. Leave requests can be cancelled up to 24 hours before the start date without penalty. For extended leave periods exceeding 10 consecutive days, employees must provide additional documentation and obtain approval from both their direct manager and HR department.",
+        "similarity_score": 0.78
+      }
+    ]
+  },
+  {
+    "user_question": "What are the requirements for remote work?",
+    "system_answer": "To work remotely, you need to have a dedicated workspace with a reliable internet connection (minimum 25 Mbps download speed) and appropriate equipment. The company provides laptops, monitors, and necessary software licenses for remote employees. You can request remote work arrangements through the HR portal under the 'Work Arrangements' section, and requests are typically approved within 5 business days. Core working hours are from 10 AM to 3 PM EST, during which all employees must be available for meetings and collaboration. Remote employees are also required to attend monthly in-person team meetings at the office, with travel expenses covered by the company.",
+    "chunks_related": [
+      {
+        "chunk_id": 2,
+        "text": "Our company supports flexible work arrangements including full remote work, hybrid schedules, and flexible hours. Employees can request remote work arrangements through the HR portal under the 'Work Arrangements' section. Remote work requests are typically approved within 5 business days. Employees working remotely must have a dedicated workspace with reliable internet connection (minimum 25 Mbps download speed) and appropriate equipment. The company provides laptops, monitors, and necessary software licenses for remote employees.",
+        "similarity_score": 0.92
+      },
+      {
+        "chunk_id": 3,
+        "text": "Core working hours are from 10 AM to 3 PM EST, during which all employees must be available for meetings and collaboration. Outside of core hours, employees can set their own schedules. Remote employees are required to attend monthly in-person team meetings at the office. Travel expenses for these meetings are covered by the company. Performance evaluations for remote workers follow the same criteria as office-based employees. Remote work arrangements are reviewed annually and can be modified based on business needs or employee performance.",
+        "similarity_score": 0.88
+      }
+    ]
+  },
+  {
+    "user_question": "How do I reset my password if I forget it?",
+    "system_answer": "If you forget your password, click the 'Forgot Password' link on the login page. You will receive an email with a password reset link that expires after 30 minutes. The reset link can only be used once. If you don't receive the email, check your spam folder and ensure your email address is correct in the system. For security reasons, passwords must be at least 12 characters long and include uppercase letters, lowercase letters, numbers, and special characters. Passwords cannot be reused from the last 12 passwords. If you're locked out of your account after multiple failed login attempts, contact IT support to unlock your account. Account lockouts are automatically released after 30 minutes, but IT can manually unlock accounts immediately.",
+    "chunks_related": [
+      {
+        "chunk_id": 15,
+        "text": "If you forget your password, click the 'Forgot Password' link on the login page. You will receive an email with a password reset link that expires after 30 minutes. The reset link can only be used once. If you don't receive the email, check your spam folder and ensure your email address is correct in the system. For security reasons, passwords must be at least 12 characters long and include uppercase letters, lowercase letters, numbers, and special characters. Passwords cannot be reused from the last 12 passwords. Two-factor authentication (2FA) is required for all accounts and can be set up using an authenticator app or SMS. If you're locked out of your account after multiple failed login attempts, contact IT support to unlock your account. Account lockouts are automatically released after 30 minutes, but IT can manually unlock accounts immediately.",
+        "similarity_score": 0.97
+      },
+      {
+        "chunk_id": 16,
+        "text": "Suspicious login activity triggers automatic account suspension and notification to the security team. Employees receive email alerts for login attempts from new devices or locations. If you suspect unauthorized access to your account, immediately change your password and contact IT security.",
+        "similarity_score": 0.72
+      }
+    ]
+  },
+  {
+    "user_question": "What is the company's 401(k) matching policy?",
+    "system_answer": "The company offers a 401(k) retirement plan with company matching up to 6% of employee contributions. The matching contribution vests over 4 years with 25% vesting each year. Employees are eligible for the 401(k) plan after completing 90 days of employment. This means if you contribute 6% of your salary, the company will match that amount, but the matching funds will gradually become yours over a 4-year period.",
+    "chunks_related": [
+      {
+        "chunk_id": 5,
+        "text": "Our comprehensive benefits package includes health insurance, dental coverage, vision insurance, retirement plans, and wellness programs. Health insurance coverage begins on the first day of employment with options for individual, employee plus spouse, or family plans. The company covers 80% of health insurance premiums for employees and 60% for dependents. Dental and vision insurance are fully covered by the company for all employees. We offer a 401(k) retirement plan with company matching up to 6% of employee contributions. The matching contribution vests over 4 years with 25% vesting each year. Employees are eligible for the 401(k) plan after completing 90 days of employment.",
+        "similarity_score": 0.94
+      }
+    ]
+  }
+]
+

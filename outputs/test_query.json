@@ -1,0 +1,31 @@
+{
+  "user_question": "How do I reset my password?",
+  "system_answer": "To reset your password, click the \"Forgot Password\" link on the login page. You will receive an email with a password reset link that expires after 30 minutes. Follow the link to reset your password, ensuring it meets the security requirements of being at least 12 characters long and including uppercase letters, lowercase letters, numbers, and special characters. If you don't receive the email, check your spam folder and ensure your email address is correct in the system.",
+  "chunks_related": [
+    {
+      "chunk_id": 22,
+      "text": "You will receive an email with a password reset link that expires after 30 minutes. The reset link can only be used once. If you don't receive the email, check your spam folder and ensure your email address is correct in the system. For security reasons, passwords must be at least 12 characters long and include uppercase letters, lowercase letters, numbers, and special characters.",
+      "similarity_score": 0.530146598815918
+    },
+    {
+      "chunk_id": 23,
+      "text": "Passwords cannot be reused from the last 12 passwords. Two-factor authentication (2FA) is required for all accounts and can be set up using an authenticator app or SMS. If you're locked out of your account after multiple failed login attempts, contact IT support to unlock your account. Account lockouts are automatically released after 30 minutes, but IT can manually unlock accounts immediately.",
+      "similarity_score": 0.5042347311973572
+    },
+    {
+      "chunk_id": 21,
+      "text": "Geofencing features ensure employees can only clock in when they are at approved work locations. Break times are automatically deducted from total hours worked based on company break policies. PROCEDURES AND TROUBLESHOOTING\n\nPassword Reset and Account Security\n\nIf you forget your password, click the \"Forgot Password\" link on the login page.",
+      "similarity_score": 0.3909376263618469
+    },
+    {
+      "chunk_id": 24,
+      "text": "Suspicious login activity triggers automatic account suspension and notification to the security team. Employees receive email alerts for login attempts from new devices or locations. If you suspect unauthorized access to your account, immediately change your password and contact IT security. Payroll and Payment Issues\n\nPayroll is processed bi-weekly on Fridays, with payments deposited to employee bank accounts on the following Wednesday.",
+      "similarity_score": 0.3861417770385742
+    },
+    {
+      "chunk_id": 30,
+      "text": "Access requests require approval from your manager and the system administrator. Access is typically granted within 2 business days after approval. Temporary access can be granted for specific projects or time periods and automatically expires on the specified date. If you're unable to access a feature you believe you should have, check your role assignments in your profile settings.",
+      "similarity_score": 0.37420740723609924
+    }
+  ]
+}
