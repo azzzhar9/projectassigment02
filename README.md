@@ -189,6 +189,12 @@ This project implements a complete RAG pipeline for FAQ support:
     Outputs: Evaluation scores (0-10)
 ```
 
+## Documentation
+
+- **README.md**: This file - setup, usage, and overview
+- **HOW_IT_WORKS.md**: Detailed file-by-file explanation of how the system works
+- **PROJECT_ANALYSIS.md**: Project strengths, improvements, and analysis
+
 ## Project Structure
 
 ```
